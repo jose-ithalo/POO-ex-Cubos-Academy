@@ -10,7 +10,7 @@ A classe terá três funcionalidades.
 
 + Ligar (altera o estado da lâmpada para `true`)
 + Desligar (altera o estado da lâmpada para `false`)
-+ Medir Potência (retorna a potência da lampada em watts)
++ Medir Potência (retorna a potência da lâmpada em watts)
 
 Não é necessário transpilar o código.
 
