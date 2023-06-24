@@ -4,7 +4,7 @@
 
 ## Fatura
 
-> Implemente uma classe `Fatura` que será responsável por registrar todos os lançamentos de compras no  
+Implemente uma classe `Fatura` que será responsável por registrar todos os lançamentos de compras no  
 cartão de crédito de um cliente específico.
 
 Ao criar um novo objeto instaciado a classe `Fatura`, será necessário informar o nome do cliente  
